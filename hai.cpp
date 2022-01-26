@@ -2,5 +2,5 @@
 
 main_program{
 //Write your code here
-cout<<"hau";
+cout<<"au";
 }
